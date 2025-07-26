@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Graduate** at Ștefan cel Mare University of Suceava
+- 🎓 **Computer Science Graduate** at **"Ștefan cel Mare University"** of Suceava
 - 🛠 Built a top-down 3D voxel system in Unity using DOTS & Burst for my bachelor’s thesis
 - 📊 Exploring data engineering concepts, ETL pipelines, and scalable software systems
 - 🌐 **Personal Website:** [beniamincioban.com](https://beniamincioban.com)
@@ -35,9 +35,9 @@
 
 | Project | Description | Languages & Tools |
 | :---: | :--- | :---: |
-| [Personal Page](https://b3n14m1n.github.io/) | Personal website, check it out! | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /> |
+| [Website](https://b3n14m1n.github.io/) | Personal website, check it out! | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /> |
 | [Voxel System](https://github.com/B3N14M1N/Voxel-System) | A voxel system for top down games. This is my Bachelor Degree Project | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" /> |
-| [Animation Studio management app](https://github.com/B3N14M1N/ORACLE_SQL_STUDIO_ANIMATIE) | Oracle SQL app for animation studio management | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> |
+| [Animation Studio management](https://github.com/B3N14M1N/ORACLE_SQL_STUDIO_ANIMATIE) | Oracle SQL app for animation studio management | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> |
 | [Learning Pattern Recognition](https://github.com/B3N14M1N/Pattern-Recognition-ML) | Machine learning models for pattern recognition | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" /> |
 | [2D object matchng game](https://github.com/B3N14M1N/Internship-Assist-Probe) | Unity test project from ASSIST Software internship | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" /> |
 | [USV theme game](https://github.com/B3N14M1N/Voluntar-USV-Joc3D-UNITY) | A 3D game project for university course | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" /> |
