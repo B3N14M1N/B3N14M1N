@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Final-year Computer Science Student** at Ștefan cel Mare University of Suceava (graduating June 2025)
+- 🎓 **Computer Science Graduate** at Ștefan cel Mare University of Suceava
 - 🛠 Built a top-down 3D voxel system in Unity using DOTS & Burst for my bachelor’s thesis
 - 📊 Exploring data engineering concepts, ETL pipelines, and scalable software systems
 - 🌐 **Personal Website:** [beniamincioban.com](https://beniamincioban.com)
