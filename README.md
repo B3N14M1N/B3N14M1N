@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=4CAF50&background=FFFFFF00&center=true&lines=Welcome+to+my+Profile!;Check+it+out+↓↓↓↓" alt="Typing SVG" />
 </p>
 
----
+
 
 ##  About Me
 
@@ -12,7 +12,6 @@ I’m currently working as a **Data Engineer**. I graduated with a degree in Com
 
 Visit my personal website: [beniamincioban.com](https://beniamincioban.com)
 
----
 
 ##  Technical Competencies
 
@@ -37,7 +36,7 @@ Visit my personal website: [beniamincioban.com](https://beniamincioban.com)
   <img src="https://img.shields.io/badge/RAG/CAG-Informational?style=flat" alt="RAG/CAG" />
   <img src="https://img.shields.io/badge/LLM-Informational?style=flat" alt="LLM" />
 </p>
----
+
 
 ##  Selected Projects
 
@@ -50,7 +49,6 @@ Visit my personal website: [beniamincioban.com](https://beniamincioban.com)
 | [Pattern Recognition ML](https://github.com/B3N14M1N/Pattern-Recognition-ML) | ML-based pattern recognition models. | Java |
 | [Game Projects (Unity)](https://github.com/B3N14M1N/Internship-Assist-Probe) & [USV Theme Game](https://github.com/B3N14M1N/Voluntar-USV-Joc3D-UNITY) | Unity-based game development projects. | C#, Unity |
 
----
 
 ##  GitHub Insights
 
@@ -62,7 +60,6 @@ Visit my personal website: [beniamincioban.com](https://beniamincioban.com)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3N14M1N&theme=dracula&hide_border=true&ring=79ff97" alt="GitHub Streak" />
 </p>
 
----
 
 ##  Connect with Me
 
