@@ -8,7 +8,7 @@
 
 ##  About Me
 
-I’m currently working as a **Data Engineer**. I graduated with a degree in Computer Science from **Ștefan cel Mare University of Suceava**, where I implemented a 3D voxel rendering system using Unity’s DOTS and Burst for my bachelor’s thesis.
+I’m currently working as a **Developer**. I graduated with a degree in Computer Science from **Ștefan cel Mare University of Suceava**, where I implemented a 3D voxel rendering system using Unity’s DOTS and Burst for my bachelor’s thesis.
 
 Visit my personal website: [beniamincioban.com](https://beniamincioban.com)
 
